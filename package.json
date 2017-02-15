@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "scripts": {
     "test": "jest",
-    "prepublish": "babel src/index.js -o lib/index.js",
+    "prepublish": "mkdir lib && babel src/index.js -o lib/index.js",
     "postpublish": "rm -rf lib"
   },
   "author": "Daniel Leite de Oliveira <dleitee@gmail.com>",
