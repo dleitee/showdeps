@@ -1,6 +1,6 @@
 # showdeps
 
-A little library to list all dependencies from code.
+A little library to list all imports in a code.
 
 ## Install
 
