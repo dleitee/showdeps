@@ -1,5 +1,7 @@
 # showdeps
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dleitee/showdeps.svg)](https://greenkeeper.io/)
+
 A little library to list all imports in a code.
 
 ## Install
